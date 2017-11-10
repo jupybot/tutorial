@@ -9,5 +9,4 @@ commands:
         name: SUB_TASK
         type: string
         regexp: (.*)
-    help_text: *`devhelp:`* _Find useful information to get you started with building JupyBot tasks_
-```Type: devhelp```
+    help_text: "*`devhelp:`* _Find useful information to get you started with building JupyBot tasks_\n```Type: devhelp```"
