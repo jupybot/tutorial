@@ -1,3 +1,3 @@
 # tutorial
 
-This the tutorial command for jupybot.
+This the tutorial task for jupybot.
