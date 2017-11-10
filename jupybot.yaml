@@ -1,0 +1,13 @@
+commands:
+  - weather_forecast:
+    name: Onboarding of JupyBot Developers
+    type: file
+    notebook_file: task_tutorial.ipynb
+    regexp: devhelp[ ]*<SUB_TASK>
+    params:
+      - SUB_TASK:
+        name: SUB_TASK
+        type: string
+        regexp: (.*)
+    help_text: *`devhelp:`* _Find useful information to get you started with building JupyBot tasks_
+```Type: devhelp```
