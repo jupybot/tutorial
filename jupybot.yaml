@@ -4,6 +4,7 @@ commands:
     type: file
     notebook_file: task_tutorial.ipynb
     regexp: tutorial[ ]*<SUB_TASK>
+    kernel: python2
     params:
       - SUB_TASK:
         name: SUB_TASK
